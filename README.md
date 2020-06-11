@@ -14,7 +14,7 @@ Description
 Screenshots
 =
 Form
-<img src="https://user-images.githubusercontent.com/59883982/83216252-cf830e80-a136-11ea-955c-7c515c13b16d.jpg" width="400"></img>
+<img src="https://user-images.githubusercontent.com/59883982/84430064-212b9e80-abf7-11ea-8ee1-2305ad88d08e.png" width="400"></img>
 
 Name
 <img src="https://user-images.githubusercontent.com/59883982/83220050-fabe2b80-a13f-11ea-8506-f1929cac9a60.jpg" width="320"></img>Password
